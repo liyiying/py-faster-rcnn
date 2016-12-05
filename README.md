@@ -1,3 +1,17 @@
+### Disclaimer-by-liyiying
+
+The usage of Faster R-CNN is the same as https://github.com/rbgirshick/py-faster-rcnn.
+
+The original and official Faster R-CNN code is written by rbgirshick. Liyiying build a hybrid object detection combining Faster R-CNN and CloudSight(http://www.cloudsightapi.com/). The implementation demo code is under /tools folder: cs.py and demo_hybrid.py.
+
+About the usage of the hybrid object detection, please see the /tools/README_hybrid_detection.md.
+
+### License
+
+The code modified by Liyiying and the original Faster R-CNN is released under the MIT License (refer to the LICENSE file for details).
+
+## README of the original py-faster-rcnn:
+
 ### Disclaimer
 
 The official Faster R-CNN code (written in MATLAB) is available [here](https://github.com/ShaoqingRen/faster_rcnn).
@@ -21,10 +35,6 @@ This Python implementation contains contributions from Sean Bell (Cornell) writt
 Please see the official [README.md](https://github.com/ShaoqingRen/faster_rcnn/blob/master/README.md) for more details.
 
 Faster R-CNN was initially described in an [arXiv tech report](http://arxiv.org/abs/1506.01497) and was subsequently published in NIPS 2015.
-
-### License
-
-Faster R-CNN is released under the MIT License (refer to the LICENSE file for details).
 
 ### Citing Faster R-CNN
 
