@@ -1,4 +1,4 @@
-### Disclaimer-by-liyiying
+### What Liyiying has done:
 
 The usage of Faster R-CNN is the same as https://github.com/rbgirshick/py-faster-rcnn.
 
